@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# About
+<img width="1419" alt="Screenshot 2023-02-12 at 8 13 33 PM" src="https://user-images.githubusercontent.com/37910630/218317886-f6b63edd-c01a-4794-9470-87afa2cf5c30.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Made this app to conduct a Fun Friday session at Intuit.
+This is a Rapid Fire General Quiz which is divided into 10 Sets having 5 questions each.
+Code might not be the best, as I made it in a hurry XD
+
 
 ## Available Scripts
 
